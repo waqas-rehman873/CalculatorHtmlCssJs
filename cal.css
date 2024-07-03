@@ -1,0 +1,31 @@
+.calculator{
+    max-inline-size: 22rem;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: lightgray;
+}
+.calculator-output{
+    margin: 4px 4px;
+    border: none;
+}
+.calculator-keys input{
+    width: 60px;
+    height: 60px;
+    border: none;
+    font-size: 1.2rem;
+}
+.calculator-key{
+    margin: 4px 4px;
+    border-radius: 4px;
+    width: 40px;
+}
+.calculator-keys{
+    margin: 1rem;
+}
+.calculator-output{
+    font-size: 1.2rem;
+    text-align: end;
+    /* background-color: slategray;
+    color: white; */
+
+}
